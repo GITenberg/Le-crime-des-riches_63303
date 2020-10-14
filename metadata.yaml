@@ -1,0 +1,30 @@
+_repo: Le-crime-des-riches_63303
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Lorrain, Jean
+    aliases:
+    - Lorrain, J. (Jean)
+    - Duval, Paul Alexandre Martin
+    birthdate: 1855
+    deathdate: 1906
+    gutenberg_agent_id: '41171'
+    url: http://www.gutenberg.org/2009/agents/41171
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Jean_Lorrain
+    - https://fr.wikipedia.org/wiki/Jean_Lorrain
+description: ''
+gutenberg_issued: '2020-09-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '63303'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'French fiction -- 20th century'
+- !lcc 'PQ'
+- GITenberg
+title: Le crime des riches
+url: http://www.gutenberg.org/ebooks/63303
