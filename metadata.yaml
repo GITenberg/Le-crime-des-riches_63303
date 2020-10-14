@@ -1,5 +1,8 @@
 _repo: Le-crime-des-riches_63303
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 63303-h/images/cover.jpg
 creator:
   author:
     agent_name: Lorrain, Jean
@@ -14,6 +17,8 @@ creator:
     - https://en.wikipedia.org/wiki/Jean_Lorrain
     - https://fr.wikipedia.org/wiki/Jean_Lorrain
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/63303#Le-crime-des-riches
 gutenberg_issued: '2020-09-26'
 gutenberg_type: Text
 identifiers:
